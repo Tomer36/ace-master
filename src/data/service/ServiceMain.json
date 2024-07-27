@@ -1,0 +1,188 @@
+[
+  {
+    "image": "/images/icon/clubgglogo.png",
+    "title": "אפליקציית ClubGG",
+    "description": "ClubGG הוא מועדון פוקר סגור המאגד את השחקנים הישראלים במקום אחד. מדי יום פועלים במועדון כ-200 שולחנות משחק, עם בליינדים שמתחילים מ-2 שקלים ויכולים להגיע ל-100-50 שקלים. אנחנו מבינים שלנושא הכספים ברשת ישנם חששות, אך ClubGG מבוסס על פלטפורמה בינלאומית עם מערכת אבטחה מתקדמת, המבטיחה את ביטחונם של השחקנים ומספקת משחקים אמינים ואיכותיים. תוכלו לשחק בראש שקט, בידיעה שהכסף שלכם בטוח ומנוהל בצורה מקצועית, ללא טריקים או תקלות.",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/coin.png",
+    "title": "תשלום",
+    "description": "האפליקציה שלנו פשוטה ונוחה לשימוש, ומספקת מגוון רחב של אפשרויות להעברת כספים. תוכלו להפקיד ולמשוך את הכסף בדרכים רבות, כולל קוד משיכה מכספומט, אפליקציות ביט ופייבוקס, ומטבעות קריפטו כמו BTC, ETH ו-USDT. לשחקני VIP של ClubGG מוצעות אפשרויות נוספות כמו העברה בנקאית ושליח עד הבית.",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/info.png",
+    "title": "הוראות שימוש",
+    "description": "האפליקציה זמינה להורדה עבור מערכות הפעלה iOS ואנדרואיד, כך שתוכלו להשתמש בה בטלפונים ניידים, טאבלטים או מחשבים ניידים. לאחר הורדת האפליקציה ClubGG, תוכלו להתחיל לשחק פוקר אונליין לאחר הרשמה פשוטה. ההרשמה אפשרית באמצעות חשבונות גוגל, פייסבוק או אפל, ולאחר מכן תוכלו להצטרף לטורנירי פוקר ולמשחקי קאש אונליין. בתהליך ההרשמה תבחרו כינוי ודמות אישית, ובסיום תוכלו להתחבר לשולחנות המשחק על ידי הקשת מספר הקלאב ברובריקה של Club ID. תוכלו לשחק מכל מכשיר שבחרתם, אך חשוב לוודא שיש לכם חיבור אינטרנט יציב כדי לגשת לכל הטורנירים ולשולחנות הקאש.",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/question.png",
+    "title": "למה ClubGG?",
+    "description": "מבחינת החוק הישראלי, משחק הפוקר נחשב למשחק המנוהל על ידי מזל בלבד, ולכן הוא לא חוקי. עם זאת, מערכת המשפט לא נתנה החלטה ברורה לגבי משחקי פוקר אונליין, ולכן קיים שטח אפור בנושא. תוכלו לשחק בפלטפורמה הבינלאומית של ClubGG דרך הסוכן הרשמי שלנו, מבלי לחשוש מהחוק. הפלטפורמה עצמה ממוקמת מחוץ לישראל, כך שהשחקנים הישראלים יכולים להנות מהמשחק ללא חשש מהרגולציה המקומית.",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/18.png",
+    "title": "18+",
+    "description": "בעת המשחק באפליקציה של ClubGG, חשוב לציין כי עליכם להיות בגיל 18 ומעלה כדי להשתתף במשחקים ובטורנירים. כל מקרה של הונאה יתוחקר ויטופל בצורה מחמירה, ואם יימצא כי היה חשד להונאה, השחקנים המעורבים יושעו אוטומטית מהפלטפורמה.",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    
+    }
+  }
+]
