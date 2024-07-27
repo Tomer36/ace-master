@@ -39,7 +39,7 @@ const BannerOne = () => {
                 delay={100}
               >
                 <img
-                  src={process.env.PUBLIC_URL + "/images/banner/GG.png"}
+                  src={process.env.PUBLIC_URL + "/images/banner/ace.png"}
                   alt="table"
                 />
               </AnimationOnScroll>
